@@ -2,7 +2,6 @@
 #define DRIVER_H
 
 #include <arduino.h>
-#include <enum.h>
 
 #include "Motor.h"
 

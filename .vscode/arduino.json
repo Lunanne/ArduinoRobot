@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "port": "/dev/tty.usbmodem11101",
+    "sketch": "Arduino_Robot/Arduino_Robot.ino"
+}
